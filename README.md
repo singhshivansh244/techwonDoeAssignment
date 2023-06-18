@@ -23,7 +23,7 @@
 * Tailwind (styling)
 * Vite (dev server)
 ## Live Project
-<a href="https://645ffa29f1d26409e1c5aa98--fanciful-semifreddo-1d1b6b.netlify.app/">
+<a href="https://648eb742b32a79087d4665f9--fanciful-semifreddo-1d1b6b.netlify.app/">
 <button style="border-radius: 5px; background-color: #555; color: white; width: 100px; height: 40px; margin-bottom: 10px">LIVE</button>
 </a>
 <img src="./landingPage.png">
